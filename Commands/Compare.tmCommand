@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beforeRunningCommand</key>
+	<string>nop</string>
+	<key>command</key>
+	<string>#!/usr/bin/env bash
+. "$TM_BUNDLE_SUPPORT/lib/rvm_textmate"
+
+echo "&lt;pre&gt;"
+bundle exec zucchini run -p `echo $TM_FILEPATH | sed 's/feature.zucchini//g'`
+echo "&lt;/pre&gt;"</string>
+	<key>input</key>
+	<string>selection</string>
+	<key>keyEquivalent</key>
+	<string>@P</string>
+	<key>name</key>
+	<string>Compare</string>
+	<key>output</key>
+	<string>showAsHTML</string>
+	<key>uuid</key>
+	<string>26836BBC-14C9-4E1E-BE28-541B49BC92D8</string>
+</dict>
+</plist>

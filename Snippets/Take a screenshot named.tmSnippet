@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Take a screenshot named "${1:name}"
+</string>
+	<key>name</key>
+	<string>Take a screenshot named</string>
+	<key>tabTrigger</key>
+	<string>tsn</string>
+	<key>uuid</key>
+	<string>859230B8-EE1F-4D4A-8716-5B7962D1278B</string>
+</dict>
+</plist>

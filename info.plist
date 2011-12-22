@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mainMenu</key>
+	<dict>
+		<key>items</key>
+		<array>
+			<string>7BF2D538-5A4E-4A71-8094-901796E4014C</string>
+			<string>F31A3215-3A6E-4CAF-95ED-C22070B886AC</string>
+			<string>859230B8-EE1F-4D4A-8716-5B7962D1278B</string>
+			<string>9647F64C-B9B5-436F-9A33-8A998B31A80C</string>
+			<string>------------------------------------</string>
+			<string>6FF1B96D-DD94-4721-B9BA-A4014F62C045</string>
+		</array>
+		<key>submenus</key>
+		<dict/>
+	</dict>
+	<key>name</key>
+	<string>Zucchini</string>
+	<key>ordering</key>
+	<array>
+		<string>F8270198-54D0-496B-8C62-98B0121B760A</string>
+		<string>7BF2D538-5A4E-4A71-8094-901796E4014C</string>
+		<string>F31A3215-3A6E-4CAF-95ED-C22070B886AC</string>
+		<string>859230B8-EE1F-4D4A-8716-5B7962D1278B</string>
+		<string>9647F64C-B9B5-436F-9A33-8A998B31A80C</string>
+		<string>6FF1B96D-DD94-4721-B9BA-A4014F62C045</string>
+		<string>C111E266-7A56-4C87-820B-208C92149DEC</string>
+		<string>26836BBC-14C9-4E1E-BE28-541B49BC92D8</string>
+	</array>
+	<key>uuid</key>
+	<string>132357D1-6E1A-4AC9-B71A-7E6D031F1082</string>
+</dict>
+</plist>
