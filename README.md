@@ -9,10 +9,10 @@ The bundle includes syntax highlighting, the ability to run feature walkthroughs
 
 ### Installation
 
-```
+```bash
 mkdir -p ~/Library/Application\ Support/TextMate/Bundles
 cd ~/Library/Application\ Support/TextMate/Bundles
-git clone git@github.com:vaskas/zucchini.tmbundle.git Zucchini.tmbundle
+git clone git@github.com:zucchini-src/zucchini.tmbundle.git Zucchini.tmbundle
 ```
 
 ### Running features on a device
